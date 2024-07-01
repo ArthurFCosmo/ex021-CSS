@@ -25,6 +25,10 @@ h2 {
     padding: 5px;
 }
 
+.bold {
+    font-weight: bolder;
+}
+
 .imagem-reduzida {
     width: 500px;
 }
