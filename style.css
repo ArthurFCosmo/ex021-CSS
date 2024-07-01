@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+body {
+    background-image: url(media/white-pattern.png);
+}
+
 main {
     position: relative;
     margin-left: auto;
